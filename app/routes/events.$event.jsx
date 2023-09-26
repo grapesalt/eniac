@@ -21,14 +21,15 @@ const MemePage = () => {
       </div>
       <div className="events-info">
         <ol>
-          <li>About the event: </li>
-          <li>Maximum teams per school: </li>
-          <li>Participants per team: </li>
-          <li>Eligible classes: </li>
-          <li>Mode (online/offline): </li>
-          <li>Prelims (yes/no): </li>
-          <li>Software(s) to be used: </li>
-          <li>Rules: </li>
+          <li>About the event: {eventData['about']}</li>
+          <li>Maximum teams per school: {eventData['teams']}</li>
+          <li>Participants per team: {eventData['participants']}</li>
+          <li>Eligible classes: {eventData['eligible_classes']}</li>
+          <li>Mode (online/offline): {eventData['mode']}</li>
+          <li>Prelims (yes/no): {"Yes" ? eventData['prelims'] : "No"}</li>
+          <li>Registration Link: <a className="text-blue" href={eventData['registration']}>Click Here</a></li>
+          <li>Software(s) to be used: {eventData['software']}</li>
+          <li>Rules: {eventData['rules']}</li>
         </ol>
       </div>
     </div>

@@ -1,34 +1,106 @@
 [
   {
     "title": "Armageddon",
-    "permalink": "armageddon"
+    "permalink": "armageddon",
+    "about": "",
+    "teams": 1,
+    "participants": "2",
+    "eligible_classes": "9-12",
+    "mode": "Online",
+    "prelims": false,
+    "registration": "https://forms.gle/uQaUwpjgtjx7CgpE9",
+    "software": "CSGO",
+    "rules": ""
   },
   {
     "title": "Br(AI)nstorm",
-    "permalink": "brainstorm"
+    "permalink": "brainstorm",
+    "about": "",
+    "teams": 1,
+    "participants": "4",
+    "eligible_classes": "9-12",
+    "mode": "Hybrid",
+    "prelims": true,
+    "registration": "https://forms.gle/RdNPkXbQfGjjdTNj6",
+    "software": "Any Open Source Software",
+    "rules": ""
   },
   {
     "title": "Cinephoria",
-    "permalink": "cinephoria"
+    "permalink": "cinephoria",
+    "about": "",
+    "teams": 1,
+    "participants": "2-5",
+    "eligible_classes": "8-12",
+    "mode": "Online",
+    "prelims": false,
+    "registration": "https://forms.gle/REXcUUUoUmkeziXG7",
+    "software": "Any",
+    "rules": ""
   },
   {
     "title": "Click Clash",
-    "permalink": "click-clash"
+    "permalink": "click-clash",
+    "about": "",
+    "teams": 1,
+    "participants": "2",
+    "eligible_classes": "9-12",
+    "mode": "Hybrid",
+    "prelims": true,
+    "registration": "https://forms.gle/oACSqin8Dm6zzKFJ6",
+    "software": "Any",
+    "rules": ""
   },
   {
     "title": "Code Quest",
-    "permalink": "codequest"
+    "permalink": "codequest",
+    "about": "",
+    "teams": 1,
+    "participants": "2",
+    "eligible_classes": "11-12",
+    "mode": "Hybrid",
+    "prelims": true,
+    "registration": "https://forms.gle/sKrnXPjAXvWpPHae7",
+    "software": "Hackerrank",
+    "rules": ""
   },
   {
     "title": "Educraft",
-    "permalink": "educraft"
+    "permalink": "educraft",
+    "about": "",
+    "teams": 1,
+    "participants": "2",
+    "eligible_classes": "6-8",
+    "mode": "Online",
+    "prelims": false,
+    "registration": "https://forms.gle/ApZcfM2autcQxKsn8",
+    "software": "Minecraft",
+    "rules": ""
   },
   {
     "title": "Meme o Mania",
-    "permalink": "meme-o-mania"
+    "permalink": "meme-o-mania",
+    "about": "",
+    "teams": 1,
+    "participants": "2",
+    "eligible_classes": "6-8",
+    "mode": "Online",
+    "prelims": false,
+    "registration": "https://forms.gle/RGDGy5NMez9p4Ywb6",
+    "software": "Any editing software",
+    "rules": ""
   },
   {
     "title": "Surprise Event",
-    "permalink": "surprise"
+    "permalink": "surprise",
+    "about": "",
+    "teams": 1,
+    "participants": "4",
+    "eligible_classes": "11-12",
+    "mode": "Online",
+    "prelims": false,
+    "registration": "https://forms.gle/Ly5W6V7JctvF5FWt9",
+    "software": "Surprise",
+    "rules": ""
   }
 ]
