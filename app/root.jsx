@@ -11,7 +11,7 @@ import {
 // import Navbar from "./components/navbar";
 import { Suspense, lazy } from "react";
 import Navbar from "./components/navbar";
-import tailwindStyles from "./styles/app.generated.css";
+// import tailwindStyles from "./styles/app.generated.css";
 import scrollbarStyle from "./styles/scrollbar.css";
 import useWindowPosition from "./hooks/useWindowPosition";
 import stylesheet from "./styles/styles.css";
